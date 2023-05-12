@@ -1,5 +1,4 @@
 
-
 // Book class; It represent a book
 class Book {
     constructor(title, author, isbn) {
